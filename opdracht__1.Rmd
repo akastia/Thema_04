@@ -1,0 +1,7 @@
+---
+title: "‘Opdracht_1
+author: Akastia Christo
+output: pdf_document
+---
+
+###Table 
